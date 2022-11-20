@@ -1,2 +1,2 @@
-# website
+# IHaveNoIdeasForAProjectName Website
 The offical website for IHaveNoIdeasForAProjectName

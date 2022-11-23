@@ -1,0 +1,14 @@
+.learn-more {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: #dd87ff;
+    --bs-btn-border-color: #dd87ff;
+    --bs-btn-border-radius: .5rem;
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #e0a6f7;
+    --bs-btn-hover-border-color: #e0a6f7;
+    --bs-btn-focus-shadow-rgb: rgb(221, 135, 255);
+    --bs-btn-active-color: #e0a6f7;
+    --bs-btn-active-bg: #e0a6f7;
+    --bs-btn-active-border-color: #e0a6f7;
+  }

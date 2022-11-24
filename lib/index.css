@@ -1,20 +1,18 @@
 .learn-more {
     --bs-btn-font-weight: 600;
     --bs-btn-color: var(--bs-white);
-    --bs-btn-bg: var(--purple);
-    --bs-btn-border-color: var(--purple);
+    --bs-btn-bg: #bb75f0;
+    --bs-btn-border-color: #bb75f0;
     --bs-btn-border-radius: .5rem;
     --bs-btn-hover-color: var(--bs-white);
-    --bs-btn-hover-bg: var(--purple-hover);
-    --bs-btn-hover-border-color: var(--purple-hover);
+    --bs-btn-hover-bg: #c390ea;
+    --bs-btn-hover-border-color: #c390ea;
     --bs-btn-focus-shadow-rgb: rgb(187, 117, 240);
-    --bs-btn-active-color: var(--purple-hover);
-    --bs-btn-active-bg: var(--purple-hover);
-    --bs-btn-active-border-color: var(--purple-hover);
+    --bs-btn-active-color: #c390ea;
+    --bs-btn-active-bg: #c390ea;
+    --bs-btn-active-border-color: #c390ea;
 }
 
 .purple {
-    --purple: #bb75f0;
-    --purple-hover: #c390ea;
-    background-color: var(--purple);
+    background-color: #bb75f0;
 }
